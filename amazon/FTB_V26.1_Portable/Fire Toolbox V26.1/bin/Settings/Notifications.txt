@@ -1,0 +1,13 @@
+SideloadApps_LoadAppsAfterDownload=0
+UserManagement_WarnAboutParentalControls=0
+ManageAmazonApps_WarnaboutLoadFromFile=0
+GoogleServices_WarnaboutToolFailure=0
+MainMenu_PageSwapNotice=1
+MainMenu_DisabledForegroundUser=0
+LockscreenWallpaper_InformAboutAutomate=0
+ManualAppManagement_ShowedHelpVideo=0
+NavigationbarModifier_IconPack_Info=0
+SideloadApps_XAPKNotice=0
+NotificationIndex=-1
+MainMenu_NotifyofOTA=0
+MainMenu_IncompatOSVer=0

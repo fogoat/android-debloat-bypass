@@ -1,0 +1,15 @@
+AlwaysonTop=0
+DisplayWelMessage=1
+SplashScreen=1
+ToolboxTheme=Terminal
+DriversInstalled=0
+CheckforUpdates=1
+CloseonDisconnect=0
+TBShortcutMade=0
+HomePage=1
+SkipDebuggerCheck=0
+KillADBOnExit=1
+SetupTour=0
+UseForegroundUser=1
+CMDADBShell=0
+NotificationCenter=1
